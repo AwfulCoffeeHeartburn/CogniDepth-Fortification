@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Philosophy</title>
+		<link href="./style.css" type="text/css" rel="stylesheet">
+	</head>
+	<body>
+		<div class="gridone">
+			<div class="Phil">
+			<h1>Philosophy</h1>
+				
+				Presently the exploration of Nietzche and Stoicism, but subject to change and expatiation. My present 
+				philosophical view is one I've dubbed Stoic-Nietchiesm, though I'm unlikely the first to have cultivated 
+				such a perspective. I've organized it's title in it's present order deliberately. While I do not subscribe 
+				to a world-view of pure stoicism, certain stoic principles form the predicate of my ideology with certain
+				Nietzchiean principles assmembled thereupon to form a structure that seems to suit me.
+				
+				
+		</div>
+		<div class="list">
+			<ul>
+				<li><a href="./Chess.html">Chess</li>
+				<li><a href="./Coding.html">Coding/Computer Science</li>
+				<li><a href="./index.html">Home</li>
+				<li><a href="./Writing.html">Writing (And The Art of Thought)</li>
+			</ul>
+		</div>
+		</div>
+	</body>
+</html>

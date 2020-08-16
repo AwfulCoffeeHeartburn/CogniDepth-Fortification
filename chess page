@@ -1,0 +1,27 @@
+<!DOCTPYE html>
+<html>
+	<head>
+		<title>Chess</title>
+		<link href="./style.css" type="text/css" rel="stylesheet"
+	</head>
+	<body>
+		<div class="Writing">
+			<h1>
+			Writing (And The Art of Thought)
+			</h1>
+				<p>
+				An exploration and perhaps an exposition of my internal affairs. Perhaps an attempt to craft substancial
+				structures with the raw material pervading my mind. Converting the maelstrom of chaotic emotion mixed
+				with reason into a conspicuous distinction. Creating an ordered structure from chaos.
+				</p>
+		</div>
+		<div>
+			<ul>
+						<li><a href="./Philosophy.html">Philosophy</a></li>
+						<li><a href="./Coding.html">Coding/Computer Science</a></li>
+						<li><a href="./index.html">Home</a></li>
+						<li><a href="./Chess.html">Chess<a/></li>
+					</ul>
+			</div>
+	</body>
+</html>

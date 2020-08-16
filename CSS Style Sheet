@@ -1,0 +1,59 @@
+.coding {
+	margin: 50px 150px;
+	font-size: 30px;
+	color: green;
+	border: 2px blue solid;
+	background-color: black;
+	height: 500px;
+	padding: 150px 50px;
+}
+
+.twoL {
+	font-size: 35px;
+	color: blue;
+	border: 8px dotted green;
+	border-radius: 100%;
+	text-align: right;
+	padding: 100px 500px 100px 100px;
+}
+
+.codingtwo {
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 50px;
+	padding-bottom: 100px;
+	color: red;
+	font-size: 30px;
+	margin: 70px;
+}
+
+.Chess {
+	font-size: 30px;
+	color: green;
+	height: 750px;
+	width: 1000px;
+	border: 10px dotted red;
+	margin: 0 auto;
+	padding: 450px 225px 250px 225px;
+	border-radius: 300%;
+	min-width: 650px;
+	max-width: 1000px;
+	overflow: visible;
+}
+
+.chesslist {
+	border: 5px solid blue;
+	color: red;
+	margin: 0 auto;
+	height: 500px;
+	width: 750px;
+	padding: 300px 50px 25px 50px;
+	font-size: 22px;
+	border-radius: 300%;
+	text-align: center;
+	max-width: 750px;
+	min-width: 550px;
+	min-height: 250px;
+	max-height: 500px;
+	visibility: visible;
+}

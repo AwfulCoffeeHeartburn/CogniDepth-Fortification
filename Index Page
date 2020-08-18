@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+			<link href="./style.css" type="text/css" rel="stylesheet">
+			<title>Stan's Crap</title>
+</head>
+
+									<!-- Body begins here. -->
+
+<body>
+	<h1>Practice Makes Perfect</h1>
+	<div class="grid">
+		<div class="box a">This is a practical enterprise undetaken for the purpose(s) of refining my fluency with coding
+		languages</div>
+		<div class="box b">It is my hope that engaging in this endeavor will:
+			<ul>
+				<li>Facilitate greater fluency with coding language</li>
+				<li>Aid in the retention of knowledge/skills pertaining to coding languages</li>
+			</ul></div>
+	</div>
+	<div class="grid">
+		<div class="container alpha">
+		A plethora of interests: With the objective of a cultivation of coding capacity I undertake the constuction
+		of a website devoted to my interests.
+		</div>
+		<div class="container bravo">
+		I subscribe to the notion that a man "may not spend more than he has" as Nietzche put it. Clarified, a
+		body has only so much energy and attention eligible for expenditure. To accomplish anything of
+		substance I believe I must allocate my resources to a set of prioritized pursuits at the expense of others.
+		For now, enumeration consists of the following:
+		<ul>
+				<li><a href="./Philosophy.html">Philosophy</li>
+				<li><a href="./Coding.html">Coding/Computer Science</li>
+				<li><a href="./Chess.html">Chess</li>
+				<li><a href="./Writing.html">Writing (And The Art of Thought)</li>
+		</ul>
+		</div>
+	</div>
+</body>
+
+									<!-- Body ends here. -->
+
+</html>

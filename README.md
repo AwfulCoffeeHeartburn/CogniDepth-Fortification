@@ -4,7 +4,7 @@ So far I've added in:
 A chess page
 A philosophy page
 A writing page
+An index page
 The CSS style sheet
 I still need to add:
-An index page
 A coding page

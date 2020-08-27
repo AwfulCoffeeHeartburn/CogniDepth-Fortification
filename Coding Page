@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Coding</title>
+		<link href="./style.css" type="text/css" rel="stylesheet">
+	</head>
+	<body>
+			<h1>
+			Coding/Computer Science
+			</h1>
+		<div class="coding">
+
+									<!-- First Paragraph Start -->		
+
+				<div class="codingone">
+				Hopefully a useful tool for tracking and substantiating my understanding of computer science, that which
+				I have chosen as my craft and my method for providing use to other human beings and society. In brief,
+				hopeful assistance for my conduit for contribution.
+				</div>
+				
+									<!--Second Paragraph start -->
+				
+				<div class="codingtwo">
+				I require a method for viewing my work in a browser. What can I use? It appears I've come by a method. 
+				I've purchased a raspberry pi and downloaded apache onto it, thereby endowing it with the capacity to 
+				serve web pages. Presently all appears to be functioing as I had hoped, though only after a fair bit of 
+				tinkering and crushingly silly mistakes on my part; mistakes of such a flavor that I've numerous times
+				felt compelled to question my intelligence. But a construct of my own! HUZZAH! To have a thing, a project, 
+				that is MINE! Perhaps this is a selfish impulse I'm indulging, perhaps I should be wary, but I think for 
+				now I'll forge ahead, drinking in the new knowledge born of my inevitable, and seemingly incessant failures.
+				A thing to shape, to perfect, whose details I might fret over, whose potential may prove boundless, what a
+				pleasant concept.
+				</div>
+				
+									<!-- Paragraphs End -->
+
+		</div>
+		<div class="twoL">
+			<ul>
+						<li><a href="./Philosophy.html">Philosophy</a></li>
+						<li><a href="./Chess.html">Chess</a></li>
+						<li><a href="./index.html">Home</a></li>
+						<li><a href="./Writing.html">Writing (And The Art of Thought)<a/></li>
+					</ul>
+			</div>
+	</body>
+</html>

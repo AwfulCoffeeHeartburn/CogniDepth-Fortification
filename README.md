@@ -6,5 +6,5 @@ A philosophy page
 A writing page
 An index page
 The CSS style sheet
-I still need to add:
 A coding page
+I'll practice later with making the pages look different and giving them different capabilities or means of user interacting.
